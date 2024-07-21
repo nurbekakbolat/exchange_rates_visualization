@@ -1,0 +1,6 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+exchange-rates/node_modules/
+exchange-rates/build/
